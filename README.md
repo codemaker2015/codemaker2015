@@ -16,12 +16,22 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
   </a>
   <a href="https://codemaker2015.medium.com">
-    <img alt="GitHub followers" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
   </a>
   <a href="https://github.com/codemaker2015?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
   </a>
+  <a href="https://www.linkedin.com/in/codemaker2015">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/codemaker2014">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=blue&logo=twitter">
+  </a>
+  <a href="https://www.facebook.com/vishnu.sivan.754">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=blue&logo=facebook">
+  </a>
 </p>
+
 
 ## 🚀 About Me
 
