@@ -25,10 +25,10 @@
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/codemaker2014">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=blue&logo=twitter">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
   <a href="https://www.facebook.com/vishnu.sivan.754">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=blue&logo=facebook">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
 
