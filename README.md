@@ -1,5 +1,3 @@
-# Hey, I'm <img src="codemaker.gif" />  👋
-
 <img src="codemaker.png" alt="Vishnu Sivan" />
 
 <p align="left">
@@ -32,6 +30,7 @@
   </a>
 </p>
 
+# Hey, I'm <img src="codemaker.gif" height="200" /> 
 
 ## 🚀 About Me
 

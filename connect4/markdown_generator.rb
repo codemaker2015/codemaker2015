@@ -21,8 +21,6 @@ class MarkdownGenerator
     game_winning_players = metadata[:game_winning_players].sort_by { |_, wins| -wins }
 
     markdown = <<~HTML
-        # Hey, I'm Vishnu 👋
-
         <img src="codemaker.png" alt="Vishnu Sivan" />
 
         <p align="left">
@@ -54,8 +52,9 @@ class MarkdownGenerator
             <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
           </a>
         </p>
-
-
+        
+        # Hey, I'm <img src="codemaker.gif" height="200" /> 
+        
         ## 🚀 About Me
 
         #### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
