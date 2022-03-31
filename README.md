@@ -1,4 +1,4 @@
-# Hey, I'm Vishnu 👋
+# Hey, I'm <img src="codemaker.gif" />  👋
 
 <img src="codemaker.png" alt="Vishnu Sivan" />
 
