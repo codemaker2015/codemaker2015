@@ -54,9 +54,11 @@ class MarkdownGenerator
         </p>
         
         # Hey, I'm 
-        
-        <img src="codemaker.gif" height="100" /> 
-        
+
+        <p align="center">
+          <img src="codemaker.gif" height="175px" /> 
+        </p>
+
         ## 🚀 About Me
 
         #### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer

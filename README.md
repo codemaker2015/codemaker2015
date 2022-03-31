@@ -32,7 +32,9 @@
 
 # Hey, I'm 
 
-<img src="codemaker.gif" height="100px" /> 
+<p align="center">
+  <img src="codemaker.gif" height="175px" /> 
+</p>
 
 ## 🚀 About Me
 
