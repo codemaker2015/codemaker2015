@@ -23,6 +23,8 @@ class MarkdownGenerator
     markdown = <<~HTML
         # Hey, I'm Vishnu 👋
 
+        <img src="codemaker.png" alt="Vishnu Sivan" />
+        
         ## 🚀 About Me
 
         #### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
