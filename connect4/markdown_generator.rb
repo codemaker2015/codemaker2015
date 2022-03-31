@@ -53,7 +53,9 @@ class MarkdownGenerator
           </a>
         </p>
         
-        # Hey, I'm <img src="codemaker.gif" height="200" /> 
+        # Hey, I'm 
+        
+        <img src="codemaker.gif" height="100" /> 
         
         ## 🚀 About Me
 

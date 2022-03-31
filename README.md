@@ -30,7 +30,9 @@
   </a>
 </p>
 
-# Hey, I'm <img src="codemaker.gif" height="200" /> 
+# Hey, I'm 
+
+<img src="codemaker.gif" height="100px" /> 
 
 ## 🚀 About Me
 
