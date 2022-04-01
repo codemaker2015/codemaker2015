@@ -1,4 +1,4 @@
-<img src="codemaker.png" alt="Vishnu Sivan" />
+<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
 
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
