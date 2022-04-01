@@ -30,7 +30,7 @@
   </a>
 </p>
 
-# Hey, I'm 
+# <img src="animated/rabbit.gif" /> Hey, I'm Vishnu Sivan <img src="animated/hands.gif" />
 
 <p align="center">
   <img src="codemaker.gif" height="175px" /> 
@@ -40,7 +40,7 @@
 
 #### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
 
-👨🏼‍💻  Seasoned professional, forward looking software engineer with 3+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments.Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
+👨🏼‍💻  Seasoned professional, forward looking software engineer with 3+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaker2015&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

@@ -53,7 +53,7 @@ class MarkdownGenerator
           </a>
         </p>
         
-        # Hey, I'm 
+        # <img src="animated/rabbit.gif" /> Hey, I'm Vishnu Sivan <img src="animated/hands.gif" />
 
         <p align="center">
           <img src="codemaker.gif" height="175px" /> 
