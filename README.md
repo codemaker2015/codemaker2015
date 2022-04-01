@@ -30,7 +30,7 @@
   </a>
 </p>
 
-## <img src="animated/rabbit.gif" height="40" /> Hey, I'm Vishnu Sivan <img src="animated/hands.gif" height="40" />
+# <img src="animated/rabbit.gif" height="40" /> Hey, I'm Vishnu Sivan <img src="animated/hands.gif" height="40" />
 
 <p align="center">
   <img src="codemaker.gif" height="175px" /> 
