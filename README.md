@@ -1,4 +1,4 @@
-<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
+<img src="codemaker.png" alt="Vishnu Sivan" />
 
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
@@ -95,7 +95,7 @@ _KETCON 2017 (01/2017)_
 ### Languages
 
 ![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
-![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=c++&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-035375?style=for-the-badge&logo=C%20sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -178,7 +178,7 @@ _KETCON 2017 (01/2017)_
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![blender](https://img.shields.io/badge/Blender-ff9900?style=for-the-badge&logo=blender&logoColor=white)
-![photoshop](https://img.shields.io/badge/Photoshop-3366cc?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![photoshop](https://img.shields.io/badge/Photoshop-3366cc?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 
 ### Testing
 
@@ -217,31 +217,33 @@ Want to read more? [Check out all the blogs](https://codemaker2015.medium.com)
 
 
 ## :game_die: Join my community Connect Four game!
-![](https://img.shields.io/badge/Moves%20played-4647-blue)
+![](https://img.shields.io/badge/Moves%20played-4650-blue)
 ![](https://img.shields.io/badge/Completed%20games-269-brightgreen)
-![](https://img.shields.io/badge/Total%20players-863-orange)
+![](https://img.shields.io/badge/Total%20players-864-orange)
 
 Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
-It is the **blue** team's turn to play.
+It is the **red** team's turn to play.
 
-|[1](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[2](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[3](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[4](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[5](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[6](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[7](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7C7&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
+|[1](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[2](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[3](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[4](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[5](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[6](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[7](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7C7&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
 | - | - | - | - | - | - | - |
 |![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blue.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blue.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blue.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blue.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blue.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blue.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blank.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/blue.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|![](https://raw.githubusercontent.com/codemaker2015/codemaker2015/main/images/red.png)|
 
-Tired of waiting? [Request a move](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cblue%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) from Connect4Bot :robot: 
+Tired of waiting? [Request a move](https://github.com/codemaker2015/codemaker2015/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) from Connect4Bot :robot: 
 
 Interested in how everything works? [Click here](https://github.com/codemaker2015/codemaker2015/tree/main/connect4) to read up on what's happening behind the scenes.
 
 **:alarm_clock: Most recent moves**
 | Team | Move | Made by |
 | ---- | ---- | ------- |
-| Red | 5 | Connect4Bot on behalf of [@codemaker2015](https://github.com/codemaker2015) |
+| Blue | 2 | [@kadrawi-kalil](https://github.com/kadrawi-kalil) |
+| Red | 3 | Connect4Bot on behalf of [@codemaker2015](https://github.com/codemaker2015) |
+| Blue | 6 | Connect4Bot on behalf of [@codemaker2015](https://github.com/codemaker2015) |
 
 **:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
 | Player | Wins |
