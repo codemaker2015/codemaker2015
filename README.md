@@ -193,18 +193,18 @@ _KETCON 2017 (01/2017)_
 
 ## 📝 Top Blog Posts
 
--   [Develop your HelloAR app in Android studio using ARCore and Sceneform](https://medium.com/p/d032e5788036)
--   [Rest API integration in Android Studio using Retrofit 2](https://medium.com/p/7ee66b54cd04)
--   [Unity 3D C# scripting cheat sheet for beginners](https://medium.com/p/2a0036a2739f)
--   [QR code scanner app in React native](https://medium.com/p/3a4e574d052d)
--   [Deploy your Flask REST API on Docker](https://medium.com/p/909f5cfa8b0b)
--   [13 ways to secure your react.js application](https://medium.com/p/dc298899ae67)
--   [Python cheatsheet for beginners](https://medium.com/p/7511b4b453e8)
--   [Top 15 React.js frameworks](https://medium.com/p/cf3f76734846)
--   [Develop your first Dapp with Web3.js](https://medium.com/p/d19354925df0)
--   [Develop your first Web AR app using WebXR and Three.js](https://medium.com/p/82475773e549)
+-   [Introduction to Metaverse](https://medium.com/@codemaker2016/introduction-to-metaverse-e48a29fc906f)
+-   [Unity3D Fundamentals](https://medium.com/@codemaker2016/unity3d-fundamentals-384aaa67fea5)
+-   [How to run python code in your browser](https://medium.com/@codemaker2016/how-to-run-python-code-in-your-browser-69b4044b803a)
+-   [Develop your first Dapp with Web3.js](https://coinsbench.com/develop-your-first-dapp-with-web3-js-c038bc10710b)
+-   [Create and deploy your first smart contract with Solidity](https://coinsbench.com/create-and-deploy-your-first-smart-contract-with-solidity-92c39987655e)
+-   [Unity 3D C# scripting cheatsheet for beginners](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
+-   [Python cheatsheet for beginners](https://medium.com/@codemaker2016/python-cheatsheet-for-beginners-41736296c636)
+-   [13 ways to secure your react.js application](https://blog.devgenius.io/13-ways-to-secure-your-react-js-application-d48da9eacd45)
+-   [Develop your HelloAR app in Android studio using ARCore and Sceneform](https://blog.devgenius.io/develop-your-helloar-app-in-android-studio-using-arcore-and-sceneform-ae9e1b7a1b5b)
+-   [Tips and tricks to create an awesome GitHub profile README](https://medium.com/@codemaker2016/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7)
 
-Want to read more? [Check out all the blogs](https://codemaker2015.medium.com)
+Want to read more? [Check out all the blogs](https://medium.com/@codemaker2016)
 
 ## 🔗 Links
 
@@ -212,7 +212,7 @@ Want to read more? [Check out all the blogs](https://codemaker2015.medium.com)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1zQKbMCvlsIeV4Ew5FiCNWKDzNfrLAecS/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/codemaker2015/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codemaker2015)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://codemaker2015.medium.com/)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codemaker2016)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail.vishnu.sivan@gmail.com)
 
 
