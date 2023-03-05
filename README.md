@@ -61,12 +61,12 @@
 -    👨‍💻 Completed **5+ client projects** and **25+ POCs** in _TCS_
 -    🥇 **Ranked #1** in **Python** on _HackerRank_
 -    🥇 **Ranked #1** in **Java** on _HackerRank_
--    📜 **300+ certification and course completion** from various 
+-    📜 **400+ certification and course completion** from various 
 learning platforms like _LinkedIn, Udemy, Coursera_
--    👩🏼‍💻 **250+ project repos** in _Github_
--    ✨ **7000+ reputation** in _Stackoverflow_
--    💎 **10+ badges and verified skills** in _Hackerrank_
--    📝 **40+ articles** in _Medium_
+-    👩🏼‍💻 **400+ project repos** in _Github_
+-    ✨ **10K reputation** in _Stackoverflow_
+-    💎 **15+ badges and verified skills** in _Hackerrank_
+-    📝 **40+ articles** in _Medium_ and _Dev_
 -    🎉 Completed all **coding challenges** in _Codingbat_
 -    🥉 **2nd Runner up** in a Coding Competition conducted by _TCS TI Trivandrum_
 
@@ -110,6 +110,7 @@ _KETCON 2017 (01/2017)_
 ### Game Development
 
 ![unity3d](https://img.shields.io/badge/unity3d-20232A?style=for-the-badge&logo=unity&logoColor=61DAFB)
+![unreal](https://img.shields.io/badge/unreal-20112A?style=for-the-badge&logo=unreal-engine&logoColor=61DAFB)
 ![oculus](https://img.shields.io/badge/Oculus-272080?style=for-the-badge&logo=oculus&logoColor=61DAFB)
 ![phaser](https://img.shields.io/badge/Phaser-0C490B?style=for-the-badge&logo=phaser.js&logoColor=61DAFB)
 ![web xr](https://img.shields.io/badge/WebXR-610033?style=for-the-badge&logo=webxr&logoColor=white)
@@ -156,6 +157,7 @@ _KETCON 2017 (01/2017)_
 ![mysql](https://img.shields.io/badge/MySQL-cc6600?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-990000?style=for-the-badge&logo=oracle&logoColor=white)
 ![mssql](https://img.shields.io/badge/MS_SQL-999966?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![neo4j](https://img.shields.io/badge/Neo4j-1BACEE?style=for-the-badge&logo=neo4j&logoColor=white)
 ![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -166,7 +168,6 @@ _KETCON 2017 (01/2017)_
 ![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)
 ![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-0066cc?style=for-the-badge&logo=kubernetes&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
@@ -193,9 +194,12 @@ _KETCON 2017 (01/2017)_
 
 ## 📝 Top Blog Posts
 
+-   [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
+-   [Create your chatbot using Rasa and deploy it on AWS](https://medium.com/coinmonks/create-your-chatbot-using-rasa-and-deploy-it-on-aws-e59b4f296605)
 -   [Introduction to Metaverse](https://medium.com/@codemaker2016/introduction-to-metaverse-e48a29fc906f)
 -   [Unity3D Fundamentals](https://medium.com/@codemaker2016/unity3d-fundamentals-384aaa67fea5)
 -   [How to run python code in your browser](https://medium.com/@codemaker2016/how-to-run-python-code-in-your-browser-69b4044b803a)
+    [QR code scanner app using React native](https://dev.to/codemaker2015/qr-code-scanner-app-using-react-native-eog)
 -   [Develop your first Dapp with Web3.js](https://coinsbench.com/develop-your-first-dapp-with-web3-js-c038bc10710b)
 -   [Create and deploy your first smart contract with Solidity](https://coinsbench.com/create-and-deploy-your-first-smart-contract-with-solidity-92c39987655e)
 -   [Unity 3D C# scripting cheatsheet for beginners](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
