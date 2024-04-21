@@ -42,11 +42,8 @@ class MarkdownGenerator
           <a href="https://www.linkedin.com/in/codemaker2015">
             <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.5K-blue?color=blue&logo=linkedin">
           </a>
-          <a href="https://twitter.com/codemaker2014">
-            <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
-          </a>
-          <a href="https://www.facebook.com/vishnu.sivan.754">
-            <img alt="Facebook friends" src="https://img.shields.io/badge/friends-2K-blue?color=yellowgreen&logo=facebook">
+          <a href="https://instagram.com/codemaker2015">
+            <img alt="Instagram followers" src="https://img.shields.io/badge/followers-100-blue?color=orange&logo=instagram">
           </a>
         </p>
         
