@@ -41,7 +41,7 @@
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaker2015&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=codemaker2015&theme=dark)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=discord)
 
