@@ -27,9 +27,6 @@ class MarkdownGenerator
           <a href="https://github.com/codemaker2015/codemaker2015">
             <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
           </a>
-          <a href="https://github.com/codemaker2015/codemaker2015">
-            <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
-          </a>
           <a href="https://stackoverflow.com/users/7103882">
             <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
           </a>
@@ -37,19 +34,19 @@ class MarkdownGenerator
             <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
           </a>
           <a href="https://codemaker2015.medium.com">
-            <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
+            <img alt="Medium" src="https://img.shields.io/badge/medium-50+-lightgrey?color=lightgrey&logo=medium">
           </a>
           <a href="https://github.com/codemaker2015?tab=followers">
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
           </a>
           <a href="https://www.linkedin.com/in/codemaker2015">
-            <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+            <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.5K-blue?color=blue&logo=linkedin">
           </a>
           <a href="https://twitter.com/codemaker2014">
             <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
           </a>
           <a href="https://www.facebook.com/vishnu.sivan.754">
-            <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
+            <img alt="Facebook friends" src="https://img.shields.io/badge/friends-2K-blue?color=yellowgreen&logo=facebook">
           </a>
         </p>
         
@@ -63,7 +60,7 @@ class MarkdownGenerator
         
         #### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
         
-        <img src="animated/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 3+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
+        <img src="animated/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 5+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 10+ client projects and worked on 50+ POCs in various technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
         
         ![Jokes Card](https://readme-jokes.vercel.app/api)
         
@@ -81,17 +78,20 @@ class MarkdownGenerator
         
         ## 🏅 Achievements
         
-        -    👨‍💻 Completed **5+ client projects** and **25+ POCs** in _TCS_
+        -    👨‍💻 Completed **10+ client projects** and **50+ POCs** in _TCS_
         -    🥇 **Ranked #1** in **Python** on _HackerRank_
         -    🥇 **Ranked #1** in **Java** on _HackerRank_
-        -    📜 **400+ certification and course completion** from various 
+        -    📜 **500+ certification and course completion** from various 
         learning platforms like _LinkedIn, Udemy, Coursera_
-        -    👩🏼‍💻 **400+ project repos** in _Github_
+        -    👩🏼‍💻 **500+ project repos** in _Github_
         -    ✨ **10K reputation** in _Stackoverflow_
+        -    💎 **15+ badges** in _LeetCode_
+        -    🐐 Completed **100+ days challenges** in _LeetCode_
         -    💎 **15+ badges and verified skills** in _Hackerrank_
-        -    📝 **40+ articles** in _Medium_ and _Dev_
-        -    🎉 Completed all **coding challenges** in _Codingbat_
+        -    📝 **50+ articles** in _Medium_ and _Dev_
+        -    🐐 Completed all **coding challenges** in _Codingbat_
         -    🥉 **2nd Runner up** in a Coding Competition conducted by _TCS TI Trivandrum_
+        -    🥉 **Won Silver badge** on Tata ideas for automated counterfeit detection for tata consumer products.
         
         ## 🏆 Awards
         
@@ -107,11 +107,14 @@ class MarkdownGenerator
         _Baselius Poulose II Catholicose College Piravom_
         
         ## 📕 Publications
-        
-        -    📜 **Patent** - **Method and system for assessing and improving 
-        wellness of person using body gestures** (08/2021 - Present).
+        -    📜 **Patent - Autonomous laboratory monitoring robot and method thereof** (08/2023 - Present)
+        -    📜 **Patent - Method and system for assessing and improving 
+        wellness of person using body gestures** (08/2021 - Present)
         -    📰 **Journal publication - Living smart at smart home**
         _KETCON 2017 (01/2017)_
+        -    🧩 Applications - [**VPicker**](https://play.google.com/store/apps/details?id=com.vsoft.apps.vpicker) [**Jumber**](https://play.google.com/store/apps/details?id=com.VSoft.Jumper) and ![**Jumbo**](https://play.google.com/store/apps/details?id=com.vsoft.jumbo) on Play Store
+        -    📦 **Packages** - [**csv toolkit**](https://assetstore.unity.com/packages/slug/274646) and [**Swipw Input**](https://assetstore.unity.com/packages/tools/input-management/swipe-input-275012)
+        
         
         ## 🛠️ Skills
         
@@ -216,7 +219,9 @@ class MarkdownGenerator
         ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
         
         ## 📝 Top Blog Posts
-        
+        -   [Exploring Gemma: Google open-source AI model](https://medium.com/pythoneers/exploring-gemma-google-open-source-ai-model-812e71b539c0)
+        -   [Build your own ChatGPT using Google Gemini API](https://codemaker2016.medium.com/build-your-own-chatgpt-using-google-gemini-api-1b079f6a8415)
+        -   [Chat with your databases using LangChain](https://coinsbench.com/chat-with-your-databases-using-langchain-bb7d31ed2e76)
         -   [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
         -   [Create your chatbot using Rasa and deploy it on AWS](https://medium.com/coinmonks/create-your-chatbot-using-rasa-and-deploy-it-on-aws-e59b4f296605)
         -   [Introduction to Metaverse](https://medium.com/@codemaker2016/introduction-to-metaverse-e48a29fc906f)
@@ -241,9 +246,8 @@ class MarkdownGenerator
         [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codemaker2015)
         [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codemaker2016)
         [![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/codemaker2015)
-        [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail.vishnu.sivan@gmail.com)
-            
-        ## :game_die: Join my community Connect Four game!
+        [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail.vishnu.sivan@gmail.com)   
+            ## :game_die: Join my community Connect Four game!
         ![](https://img.shields.io/badge/Moves%20played-#{total_moves_played}-blue)
         ![](https://img.shields.io/badge/Completed%20games-#{completed_games}-brightgreen)
         ![](https://img.shields.io/badge/Total%20players-#{metadata[:all_players].size}-orange)
