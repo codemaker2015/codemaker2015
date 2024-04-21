@@ -45,7 +45,7 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=discord)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemaker2015&bg_color=000000&color=ffffff&line=2574b1&point=e58a8a&area=true&hide_border=true)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&layout=compact&theme=blue-green)
 ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
