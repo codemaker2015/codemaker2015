@@ -10,6 +10,9 @@
   <a href="https://www.hackerrank.com/codemaker2015">
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
   </a>
+  <a href="https://leetcode.com/u/codemaker2015">
+    <img alt="Leetcode" src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
   <a href="https://codemaker2015.medium.com">
     <img alt="Medium" src="https://img.shields.io/badge/medium-50+-lightgrey?color=lightgrey&logo=medium">
   </a>
@@ -51,24 +54,34 @@
 ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
 
 ## 🏅 Achievements
-
+-    🎓 Session on AR & VR as part of the **Prayana Skill X program** by IEEE RAS Kerala Chapter
 -    👨‍💻 Completed **10+ client projects** and **50+ POCs** in _TCS_
 -    🥇 **Ranked #1** in **Python** on _HackerRank_
 -    🥇 **Ranked #1** in **Java** on _HackerRank_
 -    📜 **500+ certification and course completion** from various 
 learning platforms like _LinkedIn, Udemy, Coursera_
 -    👩🏼‍💻 **500+ project repos** in _Github_
--    ✨ **10K reputation** in _Stackoverflow_
+-    ✨ **15K reputation** in _Stackoverflow_
 -    💎 **15+ badges** in _LeetCode_
 -    🐐 Completed **100+ days challenges** in _LeetCode_
+-    🐐 Completed **500+ days challenges** in _LeetCode_
 -    💎 **15+ badges and verified skills** in _Hackerrank_
 -    📝 **50+ articles** in _Medium_ and _Dev_
 -    🐐 Completed all **coding challenges** in _Codingbat_
 -    🥉 **2nd Runner up** in a Coding Competition conducted by _TCS TI Trivandrum_
--    🥉 **Won Silver badge** on Tata ideas for automated counterfeit detection for tata consumer products. 
+-    🥉 **Won Silver badge** on Tata ideas for automated counterfeit detection for tata consumer products.
 
 ## 🏆 Awards
-
+-    🌷 **Innovation Pride Award** (03/2025 - Present)
+_Tata Consultancy Services_
+-    🌺 **Contextual Master Award** (01/2025 - Present)
+_Tata Consultancy Services_
+-    🌻 **(S)miles Award** (12/2024 - Present)
+_Tata Consultancy Services_
+-    🍀 **Special Initiative Award** (09/2024 - Present)
+_Tata Consultancy Services_
+-    🌼 **IP Creation Award** (08/2024 - Present)
+_Tata Consultancy Services_
 -    🌷 **Service & Commitment Award** (02/2022 - Present)
 _Tata Consultancy Services_
 -    🌸 **On the spot award** (10/2021 - Present)
@@ -81,21 +94,26 @@ _Tata Consultancy Services_
 _Baselius Poulose II Catholicose College Piravom_
 
 ## 📕 Publications
-
+-    📜 **Patent - A system for enhancing fine motor skills in specially-abled children through gamified adaptive FPC controllers with homegrown wearable technology** (10/2024 - Present)
+-    📜 **Patent - System and method for creating an adaptive game for improving hand-eye coordination in people with dementia** (09/2024 - Present)
+-    📜 **Patent - Autonomous laboratory monitoring robot and method thereof** (08/2023 - Present)
 -    📜 **Patent - Method and system for assessing and improving 
-wellness of person using body gestures** (08/2021 - Present).
+wellness of person using body gestures** (08/2021 - Present)
 -    📰 **Journal publication - Living smart at smart home**
 _KETCON 2017 (01/2017)_
--    🧩 Applications - [**VPicker**](https://play.google.com/store/apps/details?id=com.vsoft.apps.vpicker),  [**Jumber**](https://play.google.com/store/apps/details?id=com.VSoft.Jumper) and [**Jumbo**](https://play.google.com/store/apps/details?id=com.vsoft.jumbo) on Play Store
-  -    📦 **Packages** - [**csv toolkit**](https://assetstore.unity.com/packages/slug/274646) and [**Swipe Input**](https://assetstore.unity.com/packages/tools/input-management/swipe-input-275012)    
+-    🧩 Applications - [**VPicker**](https://play.google.com/store/apps/details?id=com.vsoft.apps.vpicker),  [**Jumber**](https://play.google.com/store/apps/details?id=com.VSoft.Jumper) and ![**Jumbo**](https://play.google.com/store/apps/details?id=com.vsoft.jumbo) on Play Store
+-    📦 **Packages** - [**csv toolkit**](https://assetstore.unity.com/packages/slug/274646) , [**Swipe Input**](https://assetstore.unity.com/packages/tools/input-management/swipe-input-275012) and [**Energy Tracker**](https://pypi.org/project/energy-tracker)
 
 
 ## 📝 Top Blog Posts
+-   [Building Smarter AI: Introduction to SmolAgents and Agentic RAG](https://codemaker2016.medium.com/building-smarter-ai-introduction-to-smolagents-and-agentic-rag-7761e7c7bb84)
+-   [Introducing uv: Next-Gen Python Package Manager](https://codemaker2016.medium.com/introducing-uv-next-gen-python-package-manager-b78ad39c95d7)
+-   [Building AI agent systems with LangGraph](https://python.plainenglish.io/the-ultimate-guide-to-retrieval-augmented-generation-rag-e5c53e5f41f5)
+-   [Unlocking Llama 3: Your Ultimate Guide to Mastering Llama 3!](https://medium.com/pythoneers/unlocking-llama-3-your-ultimate-guide-to-mastering-the-llama-3-77712d1a0915)
 -   [Exploring Gemma: Google open-source AI model](https://medium.com/pythoneers/exploring-gemma-google-open-source-ai-model-812e71b539c0)
 -   [Build your own ChatGPT using Google Gemini API](https://codemaker2016.medium.com/build-your-own-chatgpt-using-google-gemini-api-1b079f6a8415)
 -   [Chat with your databases using LangChain](https://coinsbench.com/chat-with-your-databases-using-langchain-bb7d31ed2e76)
 -   [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
--   [Create your chatbot using Rasa and deploy it on AWS](https://medium.com/coinmonks/create-your-chatbot-using-rasa-and-deploy-it-on-aws-e59b4f296605)
 -   [Introduction to Metaverse](https://medium.com/@codemaker2016/introduction-to-metaverse-e48a29fc906f)
 -   [Unity3D Fundamentals](https://medium.com/@codemaker2016/unity3d-fundamentals-384aaa67fea5)
 -   [How to run python code in your browser](https://medium.com/@codemaker2016/how-to-run-python-code-in-your-browser-69b4044b803a)
@@ -104,7 +122,6 @@ _KETCON 2017 (01/2017)_
 -   [Create and deploy your first smart contract with Solidity](https://coinsbench.com/create-and-deploy-your-first-smart-contract-with-solidity-92c39987655e)
 -   [Unity 3D C# scripting cheatsheet for beginners](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
 -   [Python cheatsheet for beginners](https://medium.com/@codemaker2016/python-cheatsheet-for-beginners-41736296c636)
--   [13 ways to secure your react.js application](https://blog.devgenius.io/13-ways-to-secure-your-react-js-application-d48da9eacd45)
 -   [Develop your HelloAR app in Android studio using ARCore and Sceneform](https://blog.devgenius.io/develop-your-helloar-app-in-android-studio-using-arcore-and-sceneform-ae9e1b7a1b5b)
 -   [Tips and tricks to create an awesome GitHub profile README](https://medium.com/@codemaker2016/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7)
 
@@ -220,7 +237,9 @@ Want to read more? [Check out all the blogs](https://medium.com/@codemaker2016)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codemaker2015)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codemaker2016)
 [![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/codemaker2015)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail.vishnu.sivan@gmail.com)
+[![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/codemaker2015)
+[![hackerrank](https://img.shields.io/badge/Hackerrank-009900?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/codemaker2015)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:codemaker2015@gmail.com)   
 
 
 ## :game_die: Join my community Connect Four game!
