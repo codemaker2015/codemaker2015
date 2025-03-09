@@ -20,10 +20,10 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.5K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-5K-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://instagram.com/codemaker2015">
-    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-100-blue?color=orange&logo=instagram">
+    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-1K-blue?color=orange&logo=instagram">
   </a>
 </p>
 
